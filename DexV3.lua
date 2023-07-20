@@ -1,7 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/CloneRef.lua", true))()
-
-getgenv().Bypassed_Dex = game:GetObjects("rbxassetid://9352453730")[1]
-
 local charset = {}
 for i = 48,  57 do table.insert(charset, string.char(i)) end
 for i = 65,  90 do table.insert(charset, string.char(i)) end
