@@ -1,5 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/CloneRef.lua", true))()
-
 getgenv().Bypassed_Dex = game:GetObjects("rbxassetid://9352453730")[1]
 
 local charset = {}
